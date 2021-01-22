@@ -1,0 +1,21 @@
+----------------
+Test on cv_1_df
+[LightGBM] [Warning] num_threads is set with n_jobs=-1, nthread=8 will be ignored. Current value: num_threads=-1
+MSE on cv_5_df:0.986333103067999
+----------------
+Test on cv_2_df
+[LightGBM] [Warning] num_threads is set with n_jobs=-1, nthread=8 will be ignored. Current value: num_threads=-1
+MSE on cv_5_df:0.9643751509117701
+----------------
+Test on cv_3_df
+[LightGBM] [Warning] num_threads is set with n_jobs=-1, nthread=8 will be ignored. Current value: num_threads=-1
+MSE on cv_5_df:0.9543383104455957
+----------------
+Test on cv_4_df
+[LightGBM] [Warning] num_threads is set with n_jobs=-1, nthread=8 will be ignored. Current value: num_threads=-1
+MSE on cv_5_df:0.9608752351452644
+----------------
+Test on cv_5_df
+[LightGBM] [Warning] num_threads is set with n_jobs=-1, nthread=8 will be ignored. Current value: num_threads=-1
+MSE on cv_5_df:0.9806329104811355
+Average MSE:0.9693109420103528
